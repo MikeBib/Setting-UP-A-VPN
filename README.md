@@ -185,5 +185,5 @@ Virtual Machin IP VPN (Japan) 212.102.51.251
 <br />
 
 
-
+END OF LAB
 
