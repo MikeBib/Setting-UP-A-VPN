@@ -48,7 +48,7 @@ EXAMPLE 2A
 </p>
 <p>
 
-Next we will set up a virtual machine on Azure. 
+Creating the Virtual Machine on Example 2B we will name the Resource Group “VPN-LAB” and name the VM as “VM-FranceCentral” and select that for the REGION as well. Ensure the other items are selected as shown in EXAMPLE 2B & 2C.
   
 </p>
 <br />
@@ -58,7 +58,7 @@ Creating the Virtual Machine on Example 2B we will name the Resource Group “VP
 
 EXAMPLE 2B
 <p>
-<img src="https://i.imgur.com/qDgu5K6.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/2OIpHFd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
