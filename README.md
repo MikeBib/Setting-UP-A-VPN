@@ -27,9 +27,9 @@ This tutorial outlines the prerequisites and installation ousing a VPN.<br />
 
 <h2>Installation Steps</h2>
 
-STEP 1 - Locate your own personal IP address by going to "www.whatismyipaddress.com" which will be able to show you your local IP address. We will use this later as well. You will see Example 1A below.
+STEP 1 - Locate your own personal IP address by going to "www.whatismyipaddress.com" which will be able to show you your local IP address. We will use this later as well. See EXAMPLE 1A below.
 
-Example 1A
+EXAMPLE 1A
 <p>
 <img src="https://i.imgur.com/qDgu5K6.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
@@ -42,7 +42,7 @@ Next we will set up a virtual machine on Azure.
 
 STEP 2 - Go to www.portal.azure.com and find Virtual Machines. (Create a free account with $200 if you need to). See Example 2A
 
-Example 2A
+EXAMPLE 2A
 <p>
 <img src="https://i.imgur.com/qDgu5K6.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
