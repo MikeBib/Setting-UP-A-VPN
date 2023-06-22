@@ -129,7 +129,7 @@ EXAMPLE 3C
 
 STEP 4 – CONNECTING TO VPN (Free Version)
 
-Using the local computer go to protonvpn.com and create a free account (if you use the VM then French will display on your browser). Once you are logged into your account, copy the URL from the Proton VPN website (EXAMPLE 4A) and then paste the URL to the VM web browser. 
+Using the local computer go to protonvpn.com and create a free account (if you use the VM then French will display on your browser, so use local computer desktop). Once you are logged into your account, copy the URL from the Proton VPN website (EXAMPLE 4A) and then paste the URL to the VM web browser. 
 
   
 </p>
@@ -164,7 +164,7 @@ EXAMPLE 4C
 </p>
 <p>
 
-Next we will look at the IP again using the VM browser now that we have connected the VPN to Japan. The website www.whatismyipaddress.com now show a different VPN from Japan. This is quite amazing.
+Next we will look at the IP again using the VM browser now that we have connected the VPN to Japan. The website www.whatismyipaddress.com shows yet another IP address using the VPN from Japan. This is quite amazing.
   
 </p>
 <br />
