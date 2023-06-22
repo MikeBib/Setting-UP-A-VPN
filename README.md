@@ -49,12 +49,6 @@ EXAMPLE 2A
 <p>
 
 Creating the Virtual Machine on Example 2B we will name the Resource Group “VPN-LAB” and name the VM as “VM-FranceCentral” and select that for the REGION as well. Ensure the other items are selected as shown in EXAMPLE 2B & 2C.
-  
-</p>
-<br />
-
-
-Creating the Virtual Machine on Example 2B we will name the Resource Group “VPN-LAB” and name the VM as “VM-FranceCentral” and select that for the REGION as well. Ensure the other items are selected as shown in EXAMPLE 2B & 2C.
 
 EXAMPLE 2B
 <p>
