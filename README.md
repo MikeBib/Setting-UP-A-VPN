@@ -89,13 +89,13 @@ EXAMPLE 2E
 </p>
 <p>
 
-Next we will set up a virtual machine on Azure. 
+Then select “Review and Create”, once it has been passed validation select “Create” at the bottom. 
+
+At the Virtual Machine we find that the IP to the Virtual Machine is “20.216.176.18”. See EXAMPLE 2E
+
   
 </p>
 <br />
-
-
-
 EXAMPLE 3A
 <p>
 <img src="https://i.imgur.com/YPBkMau.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
