@@ -56,7 +56,7 @@ EXAMPLE 2B
 </p>
 <p>
 
-Next we will set up a virtual machine on Azure. 
+For the Username and Password you can create your custom information, just record it personally.
   
 </p>
 <br />
