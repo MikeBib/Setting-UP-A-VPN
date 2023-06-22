@@ -143,7 +143,7 @@ Next we will set up a virtual machine on Azure.
 
 EXAMPLE 4B
 <p>
-<img src="https://i.imgur.com/qDgu5K6.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oqPHozb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -154,7 +154,7 @@ Next we will set up a virtual machine on Azure.
 
 EXAMPLE 4C
 <p>
-<img src="https://i.imgur.com/qDgu5K6.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/6Rdgg6B.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
@@ -165,7 +165,7 @@ Next we will set up a virtual machine on Azure.
 
 EXAMPLE 4D
 <p>
-<img src="https://i.imgur.com/qDgu5K6.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/lQsISWb.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
