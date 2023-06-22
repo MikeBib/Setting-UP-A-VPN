@@ -109,7 +109,7 @@ Next we will set up a virtual machine on Azure.
 
 EXAMPLE 3B
 <p>
-<img src="https://i.imgur.com/qDgu5K6.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/oPJr2w2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
