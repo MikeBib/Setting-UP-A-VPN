@@ -74,7 +74,7 @@ Select the “Networking” tab towards the top of the page and view EXAMPLE 2D 
 
 EXAMPLE 2D
 <p>
-<img src="https://i.imgur.com/mnjc0JR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/OgYgNLK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
