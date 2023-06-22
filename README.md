@@ -8,7 +8,7 @@ This tutorial outlines the prerequisites and installation ousing a VPN.<br />
 
 <h2>Environments and Technologies Used</h2>
 
-- A VPN (Prton VPN)
+- A VPN (Proton VPN)
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
@@ -17,14 +17,13 @@ This tutorial outlines the prerequisites and installation ousing a VPN.<br />
 
 - Windows 10</b> (21H2)
 
-<h2>List of Prerequisites</h2>
+<h2>STEPS INCLUDED IN THIS LAB</h2>
 
-- Item 1
-- Item 2
-- Item 3
-- Item 4
-- Item 5
-- Item 6
+- STEP 1 - Locate Local IP
+- STEP 2 - Setting Up VM Using Azure
+- STEP 3 - Locating IP Through VM (France)
+- Item 4 - Connecting to VPN Through VM
+- Item 5 - Locating IP Through VPN (Japan)
 
 <h2>Installation Steps</h2>
 
