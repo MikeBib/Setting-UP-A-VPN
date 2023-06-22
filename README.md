@@ -1,6 +1,6 @@
 # Setting Up a VPN
 <p align="center">
-<img src="https://i.imgur.com/chyaFyl.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="[https://i.imgur.com/chyaFyl.png](https://i.imgur.com/MntON5Q.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <h1>osTicket - Prerequisites and Installation</h1>
