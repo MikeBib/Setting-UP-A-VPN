@@ -107,18 +107,6 @@ Next we will set up a virtual machine on Azure.
 </p>
 <br />
 
-EXAMPLE 3A
-<p>
-<img src="https://i.imgur.com/qDgu5K6.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-
-Next we will set up a virtual machine on Azure. 
-
-  
-</p>
-<br />
-
 EXAMPLE 3B
 <p>
 <img src="https://i.imgur.com/qDgu5K6.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
