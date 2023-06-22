@@ -67,14 +67,14 @@ EXAMPLE 2C
 </p>
 <p>
 
-Next we will set up a virtual machine on Azure. 
+Select the “Networking” tab towards the top of the page and view EXAMPLE 2D inputs to match. 
   
 </p>
 <br />
 
 EXAMPLE 2D
 <p>
-<img src="https://i.imgur.com/qDgu5K6.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/mnjc0JR.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
