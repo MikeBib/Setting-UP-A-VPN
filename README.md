@@ -52,7 +52,7 @@ Creating the Virtual Machine on Example 2B we will name the Resource Group “VP
 
 EXAMPLE 2B
 <p>
-<img src="https://i.imgur.com/2OIpHFd.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/u3vclL3.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 
