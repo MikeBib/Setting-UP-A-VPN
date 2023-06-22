@@ -84,10 +84,12 @@ Then select “Review and Create”, once it has been passed validation select �
 <br />
 
 EXAMPLE 2E
+
 <p>
 <img src="https://i.imgur.com/ZlH9zI5.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
 
 
 NEXT: At the Virtual Machine we find that the IP to the Virtual Machine is “20.216.176.18”. See EXAMPLE 2E
