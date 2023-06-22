@@ -40,7 +40,7 @@ Next we will set up a virtual machine on Azure.
 </p>
 <br />
 
-STEP 2 - Go to www.portal.azure.com and find Virtual Machines. (Create a free account with $200 if you need to). See Example 2A looing at the Virtual Machine set up. 
+STEP 2 - Go to www.portal.azure.com and find Virtual Machines. (Create a free account with $200 if you need to). See Example 2A looking at the Virtual Machine set up page. 
 
 EXAMPLE 2A
 <p>
@@ -48,7 +48,7 @@ EXAMPLE 2A
 </p>
 <p>
 
-Creating the Virtual Machine on Example 2B we will name the Resource Group “VPN-LAB” and name the VM as “VM-FranceCentral” and select that for the REGION as well. Ensure the other items are selected as shown in EXAMPLE 2B & 2C.
+Creating the Virtual Machine on Example 2B the VM as “VM-FranceCentral” and select that for the REGION as well. Ensure the other items are selected as shown in EXAMPLE 2B & 2C.
 
 EXAMPLE 2B
 <p>
@@ -78,7 +78,7 @@ EXAMPLE 2D
 </p>
 <p>
 
-Then select “Review and Create”, once it has been passed validation select “Create” at the bottom. 
+Then select “Review and Create”, once it passes validation select “Create” at the bottom. 
   
 </p>
 <br />
@@ -93,7 +93,8 @@ EXAMPLE 2E
 <p>
 
 
-STEP 3 – Log Into the VM and find IP Address
+STEP 3 – Log Into the VM and Find IP Address
+<p>
 Now that we have set up the Virtual Machine we will connecting to it using the application “Remote Desktop Connection” (EXAMPLE 3A) and input the IP address for the VM that we located in EXAMPLE 2E and then input the set credentials we set when creating the VM (see EXAMPLE 3B). Once logged in, we will open the web browser and again look up www.whatismyipaddress.com (EXAMPLE 3C).
 
   
