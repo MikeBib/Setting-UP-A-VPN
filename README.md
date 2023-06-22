@@ -78,7 +78,7 @@ EXAMPLE 2D
 </p>
 <p>
 
-Next we will set up a virtual machine on Azure. 
+Then select “Review and Create”, once it has been passed validation select “Create” at the bottom. 
   
 </p>
 <br />
