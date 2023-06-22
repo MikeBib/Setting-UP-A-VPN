@@ -28,6 +28,8 @@ This tutorial outlines the prerequisites and installation ousing a VPN.<br />
 
 <h2>Installation Steps</h2>
 
+First, locate your own pesonal IP address by going to "www.whatismyipaddress.com" which will be able to show you your local IP address. We will use this later as well.
+
 <p>
 <img src="https://i.imgur.com/qDgu5K6.png)" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
