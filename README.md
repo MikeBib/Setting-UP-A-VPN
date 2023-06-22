@@ -8,6 +8,7 @@ This tutorial outlines the prerequisites and installation ousing a VPN.<br />
 
 <h2>Environments and Technologies Used</h2>
 
+- A VPN (Prton VPN)
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Internet Information Services (IIS)
