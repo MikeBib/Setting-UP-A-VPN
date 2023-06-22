@@ -3,7 +3,7 @@
 <img src="https://i.imgur.com/MntON5Q.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h1>osTicket - Prerequisites and Installation</h1>
+<h1>VPN - Prerequisites and Installation</h1>
 This tutorial outlines the prerequisites and installation of the open-source help desk ticketing system osTicket.<br />
 
 <h2>Environments and Technologies Used</h2>
