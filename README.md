@@ -185,4 +185,4 @@ Virtual Machin IP VPN (Japan) 212.102.51.251
 <br />
 If you no longer need the VM, ensure to remove it from the Asure account for unwanted charges.
 
-END OF LAB
+END OF TUTORIAL
